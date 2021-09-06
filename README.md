@@ -17,10 +17,12 @@ This "dataset" consists of 26078 entries with the following columns:
 5. year: Year of publication. 
 6. is_cord19: binary tag (0 or 1) identifying whether the article is related to COVID-19.
 
+At the beginning of the code, in the "Import file ". csv" and Implemented Functions" section is the link where to download the file '.csv' with the "dataset". 
+
 ## FILES
 This project has the following folder distribution: 
   * Readme.md, the file you are currently reading.
   * •	src/ ScientificArticlesClassifier: 
       * code --> In this folder is the file .ipynb with the code explained.
-      * data --> In this folder is the file .csv with the "dataset". 
+       
 
